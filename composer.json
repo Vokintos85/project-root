@@ -1,0 +1,10 @@
+{
+    "require": {
+        "brick/money": "^0.10.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
